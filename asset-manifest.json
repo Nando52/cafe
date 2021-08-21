@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cafe/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/cafe/static/js/main.3e788cab.chunk.js",
+    "main.js.map": "/cafe/static/js/main.3e788cab.chunk.js.map",
+    "runtime-main.js": "/cafe/static/js/runtime-main.62f4d72b.js",
+    "runtime-main.js.map": "/cafe/static/js/runtime-main.62f4d72b.js.map",
+    "static/js/2.8f9e30af.chunk.js": "/cafe/static/js/2.8f9e30af.chunk.js",
+    "static/js/2.8f9e30af.chunk.js.map": "/cafe/static/js/2.8f9e30af.chunk.js.map",
+    "static/js/3.da37e862.chunk.js": "/cafe/static/js/3.da37e862.chunk.js",
+    "static/js/3.da37e862.chunk.js.map": "/cafe/static/js/3.da37e862.chunk.js.map",
+    "index.html": "/cafe/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/cafe/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8f9e30af.chunk.js.LICENSE.txt": "/cafe/static/js/2.8f9e30af.chunk.js.LICENSE.txt",
+    "static/media/adam-bartoszewicz-lNFfYtrbkRM-unsplash.adc02dc9.jpg": "/cafe/static/media/adam-bartoszewicz-lNFfYtrbkRM-unsplash.adc02dc9.jpg",
+    "static/media/ian-dooley-TLD6iCOlyb0-unsplash.b36b84d6.jpg": "/cafe/static/media/ian-dooley-TLD6iCOlyb0-unsplash.b36b84d6.jpg",
+    "static/media/penguinuhh-BahFTW-j1v4-unsplash.f0c27edc.jpg": "/cafe/static/media/penguinuhh-BahFTW-j1v4-unsplash.f0c27edc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62f4d72b.js",
+    "static/js/2.8f9e30af.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3e788cab.chunk.js"
+  ]
+}
